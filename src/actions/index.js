@@ -1,0 +1,3 @@
+const selectSong = () => {
+  return {};
+};
